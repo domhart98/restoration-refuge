@@ -9,12 +9,22 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "jsonwebtoken": "^9.0.3",
+    "lucide": "^1.65.0",
+    "lucide-react": "^1.65.0",
+    "mysql2": "^3.24.6",
     "next": "16.4.3",
     "react": "19.3.0",
-    "react-dom": "19.3.0"
+    "react-day-picker": "^10.0.2",
+    "react-dom": "19.3.0",
+    "react-hot-toast": "^2.6.1",
+    "resend": "^6.35.0",
+    "toaster": "^0.1.2"
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "^4",
+    "@types/jsonwebtoken": "^9.0.10",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
